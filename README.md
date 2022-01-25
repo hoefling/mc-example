@@ -1,6 +1,6 @@
 # mc-example
 
-Lorem
+Lorem edited
 ipsum
 dolor
 sit
