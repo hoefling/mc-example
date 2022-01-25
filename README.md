@@ -1,6 +1,8 @@
 # mc-example
 
-Lorem
+	spam
+	eggs
+	bacon
 ipsum
 dolor
 sit
